@@ -106,16 +106,14 @@ print(f"R²   : {r2:.4f}")
 ## Output:
 ## Head and Tail files,X and Y values,Predicted Values
 
- 
-<img width="722" height="793" alt="Screenshot 2025-08-13 111650" src="https://github.com/user-attachments/assets/885fae5d-b280-4094-8e96-2b9df48f39cc" />
+<img width="1273" height="951" alt="Screenshot 2025-08-18 141616" src="https://github.com/user-attachments/assets/e18d9d93-f8c1-4829-8282-cf847e81b054" /> 
 
-## Graph For Traning Set
 
-<img width="794" height="602" alt="Screenshot 2025-08-13 111714" src="https://github.com/user-attachments/assets/dd3828a1-1c6c-48be-a2cc-75f168388011" />
+## Graph For Traning  and Testing Set
 
-## Graph For Testing Set
+<img width="1478" height="713" alt="Screenshot 2025-08-18 141553" src="https://github.com/user-attachments/assets/a2d2c916-c1c8-46ed-8206-e81890fe4475" />
 
-<img width="787" height="665" alt="Screenshot 2025-08-13 111719" src="https://github.com/user-attachments/assets/8d1612b2-e2be-432f-958b-551d15e4f0ff" />
+
 
 ## Error values
 
